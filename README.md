@@ -4,4 +4,4 @@ Neste repositório está o código relativo à Unidade Curricular de Programaç�
 | Diretório           | Descrição |
 | :------------------ | :------------------------------------------------------------------------------|
 | Exemplos de Código  | Exemplos de código dados nas aulas teóricas |
-| Práticas            | Resoluç
+| Práticas            | Resolução dos exercícios propostos nas folhas |
