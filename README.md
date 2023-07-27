@@ -1,7 +1,7 @@
-# Programação Imperativa (CC1003)
-Neste repositório está o código relativo à Unidade Curricular de Programação Imperativa do Ano Letivo 2020/2021 - DCC/FCUP.
+# Imperative Programming (CC1003)
+This repository contains the code for Imperative Programming Course Unit of 2020/2021 Academic Year - DCC/FCUP.
 
-| Diretório           | Descrição |
+| Folder          | Description |
 | :------------------ | :------------------------------------------------------------------------------|
-| Exemplos de Código  | Exemplos de código dados nas aulas teóricas |
-| Práticas            | Resolução dos exercícios propostos nas folhas |
+| Code Examples  | Code examples given in the theoretical classes |
+| Lab Classes           | Resolutions of the lab classes exercises  |
